@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/petland/static/css/main.7ca2b7c3.chunk.css",
+    "main.js": "/petland/static/js/main.c5e6135b.chunk.js",
+    "main.js.map": "/petland/static/js/main.c5e6135b.chunk.js.map",
+    "runtime-main.js": "/petland/static/js/runtime-main.1fb0ceab.js",
+    "runtime-main.js.map": "/petland/static/js/runtime-main.1fb0ceab.js.map",
+    "static/js/2.e0e8e9bd.chunk.js": "/petland/static/js/2.e0e8e9bd.chunk.js",
+    "static/js/2.e0e8e9bd.chunk.js.map": "/petland/static/js/2.e0e8e9bd.chunk.js.map",
+    "index.html": "/petland/index.html",
+    "precache-manifest.d30847e629c6d6c7ed7cbb200b352aa0.js": "/petland/precache-manifest.d30847e629c6d6c7ed7cbb200b352aa0.js",
+    "service-worker.js": "/petland/service-worker.js",
+    "static/css/main.7ca2b7c3.chunk.css.map": "/petland/static/css/main.7ca2b7c3.chunk.css.map",
+    "static/media/logo.svg": "/petland/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fb0ceab.js",
+    "static/js/2.e0e8e9bd.chunk.js",
+    "static/css/main.7ca2b7c3.chunk.css",
+    "static/js/main.c5e6135b.chunk.js"
+  ]
+}
